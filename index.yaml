@@ -8,7 +8,7 @@ entries:
     - condition: zookeeper.enabled
       name: zookeeper
       repository: https://charts.bitnami.com/bitnami
-      version: 12.1.3
+      version: 6.5.4
     description: Apache Storm is a free and open source distributed realtime computation
       system.
     digest: 97e328683cfd2136b64ed1ed0077fe1e6d7a1a446e08984ae12323fc9c4d82d4
